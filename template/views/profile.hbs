@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Profile</title>
+        <link rel = "stylesheet" href="/css/styles.css">
+    </head>
+    <body>
+        <h1 class="heading">Visitor</h1>
+
+            <div class="card-wrapper">
+
+                <div class="card">
+                    <img src="/images/zez9iqg8lghajcaq65ai.png" alt="card background" class="card-img">
+                    <img src="/images/download.jpg" alt="profile image" class="profile-img">
+                    <h1>{{docs.visitorName}}</h1>
+                    <div class="lines">
+                        <p >Host Name : <span>{{docs.hostName}}</span></p>
+                        <p>Application Number : <span>{{docs.applicationNo}}</span></p>
+                        <p>Email Id : <span>{{docs.visitorEmail}}</span></p>
+                        <p >Mobile Number : <span>{{docs.visitorPhnNo}}</span></p>
+                    </div>
+                    <div class="download-btn">
+						<a  class="main-btn" href="/welcome/checkout/{{docs._id}}">Check Out</a>
+					</div>
+                </div>
+
+            </div>
+    </body>
+</html>

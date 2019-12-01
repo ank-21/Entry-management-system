@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+	    <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Form</title>
+        <link rel = "stylesheet" href="./css/style.css">
+    </head>
+    <body>
+        <div class="box">
+            <h2>Welcome</h2>
+            <form method="post" id="data" autocomplete="off" action="/welcome/signup">
+                <h2 style="text-align: left; color:#9c8888ad">Visitor Details</h2>
+                <br>
+                <div class="inputBox">
+                    <input type = "text" name = "visitorName" required="true">
+                    <label>Name</label>
+                </div>
+                <div class="inputBox">
+                    <input type = "email" name = "visitorEmail" required="true">
+                    <label>Email Address</label>
+                </div>
+                <div class="inputBox">
+                    <input type = "text" name = "visitorPhnNo" required="true">
+                    <label>Number</label>
+                </div>
+                <br>
+                <h2 style="text-align: left;color:#9c8888ad">Host Details</h2>
+                <br>
+                <div class="inputBox">
+                    <input type = "text" name = "hostName" required="true">
+                    <label>Name</label>
+                </div>
+                <div class="inputBox">
+                    <input type = "email" name = "hostEmail" required="true">
+                    <label>Email Address</label>
+                </div>
+                <div class="inputBox">
+                    <input type = "text" name = "hostPhnNo" required="true">
+                    <label>Number</label>
+                </div>
+                <div class="inputBox">
+                    <p style="font-size: 16px; color:#fff;float:left">Address </p>
+                    <textarea
+                     rows="3" cols="35" name="hostAddress" required="true" ></textarea>
+                </div>
+                <br>
+                <div style="text-align:center">
+                    <input type = "submit" name="" value="Submit">
+                </div>
+            </form>
+        </div>
+    </body>
+</html>
