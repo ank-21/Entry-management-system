@@ -63,7 +63,7 @@ You need to have npm and Node.js installed.
 
 The Screenshots of the workflow is attached below.
 
- [https://github.com/ank-21/Innovacer/blob/master/public/images/WhatsApp%20Image%202019-12-01%20at%2021.18.25.jpeg]
- [Test Image](https://github.com/ank-21/Innovacer/blob/master/public/images/Annotation%202019-12-01%20174358.png)
- [Test Image](https://github.com/ank-21/Innovacer/blob/master/public/images/Annotation%202019-12-01%20211435.png)
- [Test Image](https://github.com/ank-21/Innovacer/blob/master/public/images/Annotation%202019-12-01%20211520.png)
+ [Test Image 1](https://github.com/ank-21/Innovacer/blob/master/public/images/WhatsApp%20Image%202019-12-01%20at%2021.18.25.jpeg)
+ [Test Image 2](https://github.com/ank-21/Innovacer/blob/master/public/images/Annotation%202019-12-01%20174358.png)
+ [Test Image 3](https://github.com/ank-21/Innovacer/blob/master/public/images/Annotation%202019-12-01%20211435.png)
+ [Test Image 4](https://github.com/ank-21/Innovacer/blob/master/public/images/Annotation%202019-12-01%20211520.png)
