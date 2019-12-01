@@ -57,9 +57,7 @@ You need to have npm and Node.js installed.
  
  
 ## Assumptions
-Visitor will fill the form regarding host and visitor details
-Since Twilio only can send SMS to the verified numbers on free trial basis so either the tester will have to add the number in twilio account or can use "8875825910" number to send SMS
-The user can click check-out button if the meeting is over
+Visitor will fill the form regarding host and visitor details. Since Twilio only can send SMS to the verified numbers on free trial basis so either the tester will have to add the number in twilio account or can use "8875825910" number to send SMS. The user can click check-out button if the meeting is over
 
 The Screenshots of the workflow is attached below.
 
