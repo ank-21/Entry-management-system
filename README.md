@@ -1,4 +1,4 @@
-# Innovacer Assignment
+# Entry Management System
 
 This is a simple REST API server implementation built on top of Node.js, Express.js with Mongoose.js for MongoDB integration.
 The user will submit the form regarding the meeting with the host and simultaneously an e-mail and message will be provided to the host informing about the visitor's details. The E-Mail feature is built using Nodemailer and SMS feature is built using Twilio.
